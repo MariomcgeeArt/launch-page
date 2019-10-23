@@ -1,0 +1,56 @@
+.hero-background-img {
+    background-image: url("https://images.unsplash.com/photo-1531956468651-8fc931f28a9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2623&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px;
+  }
+/*
+  .navbar-background-img {
+    background-image: url("https://images.unsplash.com/photo-1498590880827-3f79fdcd7fbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2468&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:20px;
+    padding-bottom:20px;
+  }
+
+*/
+
+
+
+  .footer-background-img {
+    background-image: url("https://images.unsplash.com/photo-1487235829740-e0ac5a286e1c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1348&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px;
+  }
+
+ 
+
+
+
+
+
+.navbar {
+    padding 1rem;
+    background-color: black;
+  }
+
+  .footer {
+    padding 1rem;
+    background-color: pink;
+  }
+
+  .btn-primary:hover {
+    background-color: purple;
+    color: white;
+  } 
+
+
+body {
+    color:pink;
+  }
